@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content for posts  
+title: 日记 
 categories: others
 ---
 
